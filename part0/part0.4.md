@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -16,4 +17,4 @@ sequenceDiagram
     server-->>browser: HTML document
     deactivate server
 
-    Note right of browser : The browser fetches the notes page and renders it
+    Note right of browser : The browser fetches the notes page and renders it```
